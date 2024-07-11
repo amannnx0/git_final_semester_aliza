@@ -19,7 +19,7 @@ class Account_Type_info{
   //additional data can be added by creating new variable and providing data from the main
   std::string acc_info;
   std::string acc_no;
-  std::string acc_holder;
+  std::string acc_holder; 
   std::string Cnic;
   float min_balance;
   float interest_rate_acc;
