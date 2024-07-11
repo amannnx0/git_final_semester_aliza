@@ -24,6 +24,7 @@ class Account_Type_info{
   float min_balance;
   float interest_rate_acc;
   std::string account_opening_dt;
+
   
 };
 
