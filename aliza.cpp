@@ -31,8 +31,6 @@ class Account_Type_info{
 
 
 
-
-
 int main(){
 
   //naming classes
