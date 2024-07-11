@@ -8,7 +8,6 @@
 
 
 
-
 //decalring the classes here. and we will name the class inside the main function.
 class Account_Type_info{
   //making the class public;
