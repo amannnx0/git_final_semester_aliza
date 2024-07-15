@@ -1,7 +1,7 @@
 // I have included comments on every steps. You can refer to that to see what is happening
 
 
-//Including header files
+//Including header files 
 #include<iostream>
 #include<fstream>
 #include<string>
