@@ -83,7 +83,7 @@ int main(){
   std::fstream out_file{"demo.txt",std::ios::app};
 //if text file is not present then the code below will give error statin Error in creating file
   if(!out_file){
-    std::cerr<<"\nError in creating file";
+    std::cerr<<"\nError in creating file ";
     return 1;
   }
 //Taking account holder's detail
